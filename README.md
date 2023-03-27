@@ -1,7 +1,7 @@
 # init_angular
 Initiation à Angular.
 
-##Qu'est ce qu'Angular
+2# Qu'est ce qu'Angular
 
 Angular est un framework open-source de développement d'applications web créé et maintenu par Google. Il est utilisé pour construire des applications web à page unique (SPA), c'est-à-dire des applications qui se chargent une fois et qui ne nécessitent pas de rechargement de page ultérieur.
 
