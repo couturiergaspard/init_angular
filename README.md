@@ -28,7 +28,7 @@ Utiliser des bibliothèques tierces : Angular permet l'intégration de biblioth�
 
 En somme, Angular offre un ensemble complet de fonctionnalités pour la création d'applications web modernes, robustes et évolutives.
 
-# La grande nuance entre Site Web / Application Web
+# La grande nuance entre Site Web / Application Web (SPA)
 
 Une application web est une application logicielle qui est accessible via un navigateur web. Elle offre des fonctionnalités interactives et complexes, souvent basées sur des interfaces utilisateur dynamiques et réactives, et peut nécessiter une connexion à un serveur pour l'exécution de certaines tâches. Les applications web sont souvent conçues pour résoudre des problèmes spécifiques ou pour offrir des fonctionnalités spécifiques à l'utilisateur.
 
