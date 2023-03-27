@@ -27,3 +27,21 @@ Injection de dépendances : Angular permet l'injection de dépendances, ce qui f
 Utiliser des bibliothèques tierces : Angular permet l'intégration de bibliothèques tierces, ce qui permet d'utiliser des fonctionnalités telles que les graphiques, les tableaux, les cartes, etc.
 
 En somme, Angular offre un ensemble complet de fonctionnalités pour la création d'applications web modernes, robustes et évolutives.
+
+#La grande nuance entre Site Web / Application Web
+
+Une application web est une application logicielle qui est accessible via un navigateur web. Elle offre des fonctionnalités interactives et complexes, souvent basées sur des interfaces utilisateur dynamiques et réactives, et peut nécessiter une connexion à un serveur pour l'exécution de certaines tâches. Les applications web sont souvent conçues pour résoudre des problèmes spécifiques ou pour offrir des fonctionnalités spécifiques à l'utilisateur.
+
+D'un autre côté, un site web est une collection de pages web statiques ou dynamiques accessibles via un navigateur web. Les sites web sont généralement utilisés pour fournir des informations à un large public, tels que des informations d'entreprise, des blogs, des actualités, etc. Ils peuvent également inclure des fonctionnalités interactives telles que des formulaires de contact, des forums, etc.
+
+Voici quelques différences clés entre une application web et un site web :
+
+Objectif : les applications web sont généralement conçues pour offrir des fonctionnalités interactives complexes, tandis que les sites web sont souvent utilisés pour fournir des informations et des contenus statiques.
+
+Fonctionnalités : les applications web offrent généralement des fonctionnalités plus complexes et interactives, telles que la gestion de données, la communication en temps réel, la manipulation d'images, etc., tandis que les sites web se concentrent souvent sur la présentation d'informations.
+
+Interactivité : les applications web sont souvent plus interactives que les sites web, car elles peuvent offrir des fonctionnalités telles que la mise à jour en temps réel de l'interface utilisateur, la détection de mouvements, la capture de données de formulaire en temps réel, etc.
+
+Complexité : les applications web sont souvent plus complexes que les sites web, car elles peuvent impliquer plusieurs couches de code, une communication en temps réel avec des serveurs et des bases de données, et des algorithmes de traitement de données sophistiqués.
+
+En résumé, bien que les applications web et les sites web partagent de nombreuses caractéristiques similaires, ils diffèrent par leur objectif, leurs fonctionnalités, leur interactivité et leur complexité.
